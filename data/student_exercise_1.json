@@ -1,0 +1,18 @@
+{
+  "item-1": { "id": "item-1", "content": "garbage 1", "color": "#F5A623" },
+  "item-2": { "id": "item-2", "content": "garbage 2", "color": "#32A623" },
+  "item-3": { "id": "item-3", "content": "garbage 3", "color": "#F5A623" },
+  "item-4": { "id": "item-4", "content": "garbage 4", "color": "#32A623" },
+  "item-5": { "id": "item-5", "content": "garbage 5", "color": "#15A623" },
+  "item-6": { "id": "item-6", "content": "garbage 6", "color": "#CC2E7F" },
+  "item-7": { "id": "item-7", "content": "garbage 7", "color": "#F8E71C" },
+  "item-8": { "id": "item-8", "content": "garbage 8", "color": "#F5A623" },
+  "item-9": { "id": "item-9", "content": "garbage 9", "color": "#CF52E9" },
+  "item-10": { "id": "item-10", "content": "garbage 10", "color": "#15A623" },
+  "item-11": { "id": "item-11", "content": "garbage 11", "color": "#F5A623" },
+  "item-12": { "id": "item-12", "content": "garbage 12", "color": "#F8E71C" },
+  "item-13": { "id": "item-13", "content": "garbage 13", "color": "#CF52E9" },
+  "item-14": { "id": "item-14", "content": "garbage 14", "color": "#15A623" },
+  "item-15": { "id": "item-15", "content": "garbage 15", "color": "#CC2E7F" },
+  "item-16": { "id": "item-16", "content": "garbage 16", "color": "#15A623" }
+}
